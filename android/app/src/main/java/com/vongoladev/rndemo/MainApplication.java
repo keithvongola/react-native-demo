@@ -1,4 +1,4 @@
-package com.rndemo;
+package com.vongoladev.rndemo;
 
 import android.app.Application;
 import android.content.Context;

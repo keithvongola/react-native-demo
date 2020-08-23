@@ -1,4 +1,4 @@
-package com.rndemo;
+package com.vongoladev.rndemo;
 
 import com.facebook.react.ReactActivity;
 

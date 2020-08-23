@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "748620492074",
+    "firebase_url": "https://rn-demo-22bc5.firebaseio.com",
+    "project_id": "rn-demo-22bc5",
+    "storage_bucket": "rn-demo-22bc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748620492074:android:c4a983261a9448f12c8253",
+        "android_client_info": {
+          "package_name": "com.vongoladev.rndemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748620492074-cjq1gldjpsmgv3pvt7loht7hmrl1c3st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC2JXlqEYzx_nKWA6ONf_3TpRzhSSFQKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748620492074-cjq1gldjpsmgv3pvt7loht7hmrl1c3st.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "748620492074-ui5141ifoe3g5m0jldg3cd09fih2baik.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vongoladev.rndemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
